@@ -1,0 +1,4 @@
+Dashboard dijalankan secara lokal menggunakan Streamlit.
+
+Cara menjalankan dashboard:
+python3 -m streamlit run dashboard/dashboard.py
